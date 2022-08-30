@@ -9,3 +9,4 @@ testing*
 *.pyc
 ro-crate-metadata.json
 lifemonitor.yaml
+bin/check_samplesheet.py
